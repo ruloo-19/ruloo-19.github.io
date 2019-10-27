@@ -1,0 +1,34 @@
+/*ESP: 1*/
+body {
+      font: 400 15px Tahoma, sans-serif;
+      line-height: 1.8;
+      color: #000;
+      background-color: #f6f6f6;
+}
+/*ESP: 1*/
+p{
+      font-family: serif;
+      font-size: 1em;
+      text-align: justify;
+}
+/*ESP: 3*/
+header+p::first-letter {
+      font-size: 2.25em;
+      font-family: 'Arial Narrow Bold';
+}
+/*ESP: 11*/
+a:link{
+      font-weight: bold;
+      color: blue;
+}
+/*ESP: 11*/
+a:visited{
+      font-weight: bold;
+      color: mediumpurple;
+}
+/*ESP: 1*/
+aside{
+      font: italic;
+      font-family: 'Trebuchet MS';
+      color: darkred;
+}

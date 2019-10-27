@@ -1,0 +1,15 @@
+/*ESP: 1*/
+tr,th{
+      text-align: center; 
+}
+/*ESP: 1*/
+tr{
+      font-family: serif;
+      font-size: 1em;
+}
+/*ESP: 1*/
+th{
+      font-weight:bold;
+      font-size: 1.5em;
+}
+
